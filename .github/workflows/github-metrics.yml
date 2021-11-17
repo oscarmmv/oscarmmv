@@ -44,7 +44,7 @@ jobs:
           plugin_pagespeed_url: oscarsaul.ca
           plugin_stars: yes
           plugin_stars_limit: 4plugin_anilist: yes
-          plugin_anilist_medias: anime            # Display both animes and mangas
+          plugin_anilist_medias: anime, characters            # Display both animes and mangas
           plugin_anilist_sections: favorites # Display only favorites and characters sections
           plugin_anilist_limit: 2                        # Limit to 2 entry per section (characters section excluded)
           plugin_anilist_limit_characters: 22            # Limit to 22 characters in characters section
