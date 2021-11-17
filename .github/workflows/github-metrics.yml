@@ -19,7 +19,7 @@ jobs:
           user: oscarmmv
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: columns
           config_timezone: America/Toronto
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -37,7 +37,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: Nexquix
+          plugin_anilist_user: .user.login
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
