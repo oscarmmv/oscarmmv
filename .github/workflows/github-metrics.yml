@@ -40,6 +40,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: oscarsaul.ca
           plugin_stars: yes
           plugin_stars_limit: 4
