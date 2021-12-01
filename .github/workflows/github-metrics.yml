@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -15,7 +12,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           user: oscarmmv
           template: classic
           base: header, activity, community, repositories, metadata
@@ -42,11 +38,3 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: oscarsaul.ca
-          plugin_stars: yes
-          plugin_stars_limit: 4plugin_anilist: yes
-          plugin_anilist_medias: anime, characters            # Display both animes and mangas
-          plugin_anilist_sections: favorites # Display only favorites and characters sections
-          plugin_anilist_limit: 2                        # Limit to 2 entry per section (characters section excluded)
-          plugin_anilist_limit_characters: 22            # Limit to 22 characters in characters section
-          plugin_anilist_shuffle: yes                    # Shuffle data for more varied outputs
-          plugin_anilist_user: oscarmmv      # Use same username as GitHub login
