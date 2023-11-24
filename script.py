@@ -19,18 +19,20 @@ def is_user_active(username):
     return github_active, vscode_active
 
 def update_readme(username, github_active, vscode_active):
-    with open('README.md', 'r+') as file:
+    with open('README.md', 'r') as file:
         content = file.read()
-        file.seek(0)
-        if github_active:
-            file.write(re.sub(r'https://img.shields.io/static/v1\?label=GitHub&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=GitHub&message=Active&color=brightgreen', content))
-        else:
-            file.write(re.sub(r'https://img.shields.io/static/v1\?label=GitHub&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=GitHub&message=Inactive&color=lightgrey', content))
-        if vscode_active:
-            file.write(re.sub(r'https://img.shields.io/static/v1\?label=VSCode&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=VSCode&message=Active&color=brightgreen', content))
-        else:
-            file.write(re.sub(r'https://img.shields.io/static/v1\?label=VSCode&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey', content))
-        file.truncate()
+
+    if github_active:
+        content = re.sub(r'https://img.shields.io/static/v1\?label=GitHub&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=GitHub&message=Active&color=brightgreen', content)
+    else:
+        content = re.sub(r'https://img.shields.io/static/v1\?label=GitHub&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=GitHub&message=Inactive&color=lightgrey', content)
+    if vscode_active:
+        content = re.sub(r'https://img.shields.io/static/v1\?label=VSCode&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=VSCode&message=Active&color=brightgreen', content)
+    else:
+        content = re.sub(r'https://img.shields.io/static/v1\?label=VSCode&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey', content)
+
+    with open('README.md', 'w') as file:
+        file.write(content)
 
 username = 'oscarmmv'
 github_active, vscode_active = is_user_active(username)
