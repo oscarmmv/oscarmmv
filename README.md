@@ -16,6 +16,8 @@ Feel free to explore my repositories and connect
 
 # User Activity
 ![Activity Status](https://img.shields.io/static/v1?label=Activity&message=Active&color=brightgreen)
+![VS Code Status](https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey)
+
 
 
 
