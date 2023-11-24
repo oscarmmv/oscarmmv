@@ -1,4 +1,4 @@
-# Hey, I'm Oscar! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" />
+# Hey, I'm Oscar (he/him)! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5315F7&random=false&width=500&lines=Computer+Science+and+Business+Student;Self-taught+Full-Stack+Dev;Passion+in+Cyber+Security+)](https://git.io/typing-svg)
 
 #### I'm a first-year Computer Science and Business student at Wilfrid Laurier University. Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
