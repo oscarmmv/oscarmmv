@@ -1,5 +1,5 @@
 # Hey, I'm Oscar! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5315F7&random=false&width=435&lines=CS+and+Business+Student;Self-taught+Full-Stack+Dev;Active+explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5315F7&center=true&multiline=true&random=false&width=435&lines=Computer+Science+and+Business+Student;Self-taught+Full-Stack+Dev;Active+explorer)](https://git.io/typing-svg)
 
 I'm a first-year Computer Science and Business student at Wilfrid Laurier University. Welcome to my GitHub profile! 💻📚
 
