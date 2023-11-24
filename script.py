@@ -17,7 +17,10 @@ def update_readme(username, active):
     with open('README.md', 'r+') as file:
         content = file.read()
         file.seek(0)
-        file.write(re.sub(r'Active: \w+', f'Active: {active}', content))
+        if active:
+            file.write(re.sub(r'https://img.shields.io/static/v1\?label=Activity&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=Activity&message=Active&color=brightgreen', content))
+        else:
+            file.write(re.sub(r'https://img.shields.io/static/v1\?label=Activity&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=Activity&message=Inactive&color=lightgrey', content))
         file.truncate()
 
 username = 'oscarmmv'
