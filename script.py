@@ -17,8 +17,11 @@ def is_user_active(username):
     vscode_active = is_server_running()
 
     for event in events:
+        if 'repo' in event and event['repo']['name'] == 'oscarmmv/oscarmmv':
+            continue  
+
         event_date = datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-        if event_date > datetime.now() - timedelta(days=1):
+        if event_date > datetime.now() - timedelta(minutes=5):
             github_active = True
 
     return github_active, vscode_active
