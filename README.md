@@ -1,9 +1,11 @@
 # Hey, I'm Oscar! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5315F7&random=false&width=500&lines=Computer+Science+and+Business+Student;Self-taught+Full-Stack+Dev;Passion+in+Cyber+Security+)](https://git.io/typing-svg)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/oscarsaul247)
+![Spotify Activity](https://img.shields.io/badge/Spotify-Listening%20to%20Music-brightgreen)
 
+![](https://komarev.com/ghpvc/?username=oscarmmv&color=blue)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oscarsaul247&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,cs,,git,selenium,nodejs,react,graphql,aws,,ps,blender,unity&perline=24)
 
 
