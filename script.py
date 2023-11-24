@@ -18,7 +18,7 @@ def is_user_active(username):
 
     for event in events:
         event_date = datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-        if event_date > datetime.now() - timedelta(minutes=5):
+        if event_date > datetime.now() - timedelta(days=1):
             github_active = True
 
     return github_active, vscode_active
