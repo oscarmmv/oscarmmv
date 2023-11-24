@@ -15,7 +15,7 @@
 Feel free to explore my repositories and connect
 
 # User Activity
-Active: True
+![Activity Status](https://img.shields.io/static/v1?label=Activity&message=Inactive&color=lightgrey)
 
 
 
