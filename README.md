@@ -13,12 +13,10 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> Passionate about back-end development, fintech, and cyber security.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Always eager to learn and explore new technologies.
 Feel free to explore my repositories and connect
-
-# User Activity
 ![Activity Status](https://img.shields.io/static/v1?label=Activity&message=Active&color=brightgreen)
 ![VS Code Status](https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey)
 
 
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=dark&hide_border=true)
