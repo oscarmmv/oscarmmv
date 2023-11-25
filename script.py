@@ -1,6 +1,8 @@
 import requests
 from datetime import datetime, timedelta
 import re
+import random
+import string
 
 def is_server_running():
     try:
@@ -39,8 +41,13 @@ def update_readme(username, github_active, vscode_active):
     else:
         content = re.sub(r'https://img.shields.io/static/v1\?label=VSCode&message=\w+&color=\w+', 'https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey', content)
 
+    random_letter = random.choice(string.ascii_uppercase)
+    content += random_letter
+
     with open('README.md', 'w') as file:
         file.write(content)
+
+    
 
 username = 'oscarmmv'
 github_active, vscode_active = is_user_active(username)
