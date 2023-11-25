@@ -20,7 +20,7 @@ Feel free to explore my repositories and connect
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=radical&hide_border=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-saul-96a3b7223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsaul.mmv@gmail.com)
