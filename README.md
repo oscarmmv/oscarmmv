@@ -17,7 +17,6 @@ Feel free to explore my repositories and connect
 ![Activity Status](https://img.shields.io/static/v1?label=Activity&message=Active&color=brightgreen)
 ![VS Code Status](https://img.shields.io/static/v1?label=VSCode&message=Inactive&color=lightgrey)
 
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=dark&hide_border=true)
