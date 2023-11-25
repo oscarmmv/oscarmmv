@@ -26,4 +26,4 @@ Feel free to explore my repositories and connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsaul.mmv@gmail.com)
 [![Website](https://img.shields.io/badge/oscarsaul.ca-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](http://oscarsaul.ca/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/oscarsaul247)
-![Discord](https://img.shields.io/badge/Discord-a1une-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-a1une-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/748901094650019971)
