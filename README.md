@@ -25,9 +25,10 @@ Feel free to explore my repositories and connect
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=radical&hide_border=true)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-saul-96a3b7223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsaul.mmv@gmail.com)
 [![Website](https://img.shields.io/badge/oscarsaul.ca-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](http://oscarsaul.ca/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/oscarsaul247)
 [![Discord](https://img.shields.io/badge/Discord-a1une-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/748901094650019971)
-L
+
