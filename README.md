@@ -22,7 +22,7 @@ Feel free to explore my repositories and connect
 
 ---
 
-[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="200" height="200" />](http://oscarsaul.ca/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=radical&hide_border=true)](http://oscarsaul.ca/)[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog.png" alt="Dog" width="205" height="205" />](http://oscarsaul.ca/)
+[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="200" height="200" />](http://oscarsaul.ca/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmmv&layout=compact&theme=dark&hide_border=true)](http://oscarsaul.ca/)[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog.png" alt="Dog" width="205" height="205" />](http://oscarsaul.ca/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-saul-96a3b7223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarsaul.mmv@gmail.com)
