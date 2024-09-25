@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,cs,,git,selenium,nodejs,react,graphql,aws,,ps,blender,unity&perline=24)](http://oscarsaul.ca/)
 
 
-#### I'm a first-year Computer Science and Business student at Wilfrid Laurier University. Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+#### I'm a second-year Computer Science and Business student at Wilfrid Laurier University. Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> Currently pursuing a degree in Computer Science and Business at Laurier.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> Passionate about back-end development, fintech, and cyber security.
